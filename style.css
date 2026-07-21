@@ -1,0 +1,11 @@
+body{margin:0;background:#0d0d0d;color:#fff;font-family:Arial}
+header{text-align:center;padding:20px}
+h1{color:gold;text-shadow:0 0 20px gold}
+marquee{font-size:24px}
+nav a{display:inline-block;margin:10px;padding:14px 22px;
+background:rgba(255,255,255,.25);border:2px solid #fff;
+border-radius:20px;color:#000;text-decoration:none}
+.hero{padding:100px;text-align:center}
+button{padding:12px 20px}
+.wa{position:fixed;right:20px;bottom:20px}
+footer{padding:20px;text-align:center;border-top:1px solid gold}
